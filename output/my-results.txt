@@ -1,26 +1,3 @@
 a280_n279_bounded-strongly-corr_01.ttp 17997 30.003
 a280_n279_bounded-strongly-corr_01.ttp 18115 10.014
-a280_n279_bounded-strongly-corr_01.ttp 18367 10.124
 eil76_n75_bounded-strongly-corr_01.ttp 3907 5.012
-eil76_n75_bounded-strongly-corr_01.ttp 3911 5.035
-eil76_n75_bounded-strongly-corr_01.ttp 4024 5.005
-eil76_n75_bounded-strongly-corr_01.ttp 3932 4.972
-eil76_n75_bounded-strongly-corr_01.ttp 4170 5.013
-a280_n279_bounded-strongly-corr_01.ttp 18138 30.002
-a280_n279_bounded-strongly-corr_01.ttp 18354 30.003
-a280_n279_bounded-strongly-corr_01.ttp 18193 30.003
-null
-a280_n279_bounded-strongly-corr_01.ttp 18028 5.003
-a280_n279_bounded-strongly-corr_01.ttp 17732 5.003
-a280_n279_bounded-strongly-corr_01.ttp 17882 5.001
-a280_n279_bounded-strongly-corr_01.ttp 16685 5.008
-a280_n279_bounded-strongly-corr_01.ttp 18079 5.001
-a280_n279_bounded-strongly-corr_01.ttp 17846 5.002
-a280_n279_bounded-strongly-corr_01.ttp 18317 5.005
-a280_n279_bounded-strongly-corr_01.ttp 18167 5.003
-a280_n279_bounded-strongly-corr_01.ttp 17597 5.003
-a280_n279_bounded-strongly-corr_01.ttp 18221 5.002
-a280_n279_bounded-strongly-corr_01.ttp -8167 5.042
-a280_n279_bounded-strongly-corr_01.ttp 18083 30.013
-a280_n279_bounded-strongly-corr_01.ttp 17842 5.084
-null
