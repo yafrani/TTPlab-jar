@@ -1,0 +1,5 @@
+# outputs
+output/*
+
+# dynamic
+config.properties
