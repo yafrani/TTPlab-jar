@@ -2,4 +2,4 @@
 output/*
 
 # dynamic
-config.properties
+#config.properties
