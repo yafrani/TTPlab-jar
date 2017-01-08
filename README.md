@@ -5,7 +5,7 @@
 - a linux OS
 
 ## Command:
-java -jar ttplab.jar <instance_name> <algo_name> <output_filename> <max_runtime>
+    java -jar ttplab.jar <instance_name> <algo_name> <output_filename> <max_runtime>
 
 - instance_name : TTP instance name, eg. eil76_n750_uncorr_10.ttp
 - algo_name : algorithm to run, 3 algorithms are available: cs2b [2], cs2sa [1], and ma2b [1]
@@ -17,7 +17,7 @@ java -jar ttplab.jar <instance_name> <algo_name> <output_filename> <max_runtime>
 - best found solution is saved in a file in output/solutions/
 
 ## Example:
-java -jar ttplab.jar eil76_n750_uncorr_10.ttp ma2b output.txt 100
+    java -jar ttplab.jar eil76_n750_uncorr_10.ttp ma2b output.txt 100
 
 
 # Run all instances from [1]
@@ -28,7 +28,7 @@ java -jar ttplab.jar eil76_n750_uncorr_10.ttp ma2b output.txt 100
 - a linux OS
 
 ## Command:
-./run.py
+    ./run.py
 
 
 # Algorithms/References
@@ -54,3 +54,5 @@ java -jar ttplab.jar eil76_n750_uncorr_10.ttp ma2b output.txt 100
 3. the linkern binary file in the bins/linkern/ folder is a modified one.
    The code source have been slightly hacked in order to improve the randomness of
    the generated initial tours
+
+4. there was a metric issue in the older version (before Nov 14, 2016), please consider the current version for comparison purposes
