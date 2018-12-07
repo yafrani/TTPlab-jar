@@ -37,9 +37,9 @@
 - cs2sa : CoSolver-based with 2-OPT and Simulated Annealing [1]
 - ma2b  : Memetic Algorithm with 2-OPT and Bit-flip [1]
 
-[1] El Yafrani, Mohamed, and Belaïd Ahiod. "Population-based vs. Single-solution Heuristics for the Travelling Thief Problem." Proceedings of the 2016 on Genetic and Evolutionary Computation Conference. ACM, 2016.
+[1] Mohamed El Yafrani, and Belaïd Ahiod. "Population-based vs. Single-solution Heuristics for the Travelling Thief Problem." Proceedings of the 2016 on Genetic and Evolutionary Computation Conference. ACM, 2016.
 
-[2] Yafrani, Mohamed El, and Belaïd Ahiod. "Cosolver2B: An Efficient Local Search Heuristic for the Travelling Thief Problem." arXiv preprint arXiv:1603.07051 (2016).
+[2] Mohamed El Yafrani, and Belaïd Ahiod. "Cosolver2B: An Efficient Local Search Heuristic for the Travelling Thief Problem." arXiv preprint arXiv:1603.07051 (2016).
 
 
 # Important notes
@@ -52,7 +52,7 @@
    http://cs.adelaide.edu.au/~optlog/CEC2014COMP_InstancesNew/
 
 3. the linkern binary file in the bins/linkern/ folder is a modified one.
-   The code source have been slightly hacked in order to improve the randomness of
+   The source code have been slightly hacked in order to improve the randomness of
    the generated initial tours
 
 4. there was a metric issue in the older version (before Nov 14, 2016), please consider the current version for comparison purposes
