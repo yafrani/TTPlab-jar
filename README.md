@@ -52,7 +52,7 @@
    http://cs.adelaide.edu.au/~optlog/CEC2014COMP_InstancesNew/
 
 3. the linkern binary file in the bins/linkern/ folder is a modified one.
-   The source code have been slightly hacked in order to improve the randomness of
+   The source codes have been slightly hacked in order to improve the randomness of
    the generated initial tours
 
 4. there was a metric issue in the older version (before Nov 14, 2016), please consider the current version for comparison purposes
